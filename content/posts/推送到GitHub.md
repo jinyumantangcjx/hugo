@@ -21,5 +21,5 @@ git remote add origin git@github.com:jinyumantangcjx/hugo.git
 ```
 # 把本地仓库的变化连接到远程仓库主分支
 ```
-git push origin master
+git push --set-upstream origin master
 ```
