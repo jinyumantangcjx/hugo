@@ -62,5 +62,5 @@ git commit -m "我的博客第一次提交"
 git remote add origin git@github.com:chenjinxin1124/chenjinxin.github.io.git
 
 # 推送到远程git
-git push --set-upstream origin main
+git push --set-upstream origin master
 ```
