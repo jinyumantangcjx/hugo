@@ -1,7 +1,7 @@
 ---
 title: "推送到GitHub"
 date: 2022-08-01T19:52:18+08:00
-draft: true
+draft: false
 ---
 # 初始化本地仓库
 ```
